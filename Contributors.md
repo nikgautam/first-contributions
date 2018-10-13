@@ -18,6 +18,7 @@
 - [Anurag Kumar](https://github.com/kgloc)
 - [Yashraj Shrivastava](https://github.com/yashrj73)
 - [Nihar](https://github.com/niharr)
+- [Nikhil](https://github.com/nikgautam)
 - [furoTmark](https://github.com/furoTmark)
 - [Christopher Mohrman](https://github.com/chrismohrman)
 - [Vipin Kumar](https://github.com/vipinkumarpsr)
